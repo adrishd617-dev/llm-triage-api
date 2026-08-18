@@ -1,0 +1,10 @@
+[
+  { "input": "My account was locked after entering my password.", "expected": "bug" },
+  { "input": "Can I get an invoice for last month's payment?", "expected": "billing" },
+  { "input": "It would be cool to add CSV export to reports.", "expected": "feature" },
+  { "input": "Hello, what time do support hours open?", "expected": "other" },
+  { "input": "System crashed with 500 server error on checkout page!", "expected": "bug" },
+  { "input": "Cancel my subscription immediately and issue a refund.", "expected": "billing" },
+  { "input": "Is there a dark mode option in settings?", "expected": "feature" },
+  { "input": "Not sure if this tool fits my company workflow.", "expected": "other" }
+]
